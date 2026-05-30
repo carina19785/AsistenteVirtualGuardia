@@ -79,9 +79,9 @@ asis-triaje/
 
 | Avance | Fecha | Estado |
 |---|---|---|
-| Avance 1 — Problema, solución y plan | 24/04/2026 | ✅ En curso |
-| Avance 2 — Núcleo técnico funcionando | 08/05/2026 | ⏳ Pendiente |
-| Avance 3 — Aplicación local funcionando | 29/05/2026 | ⏳ Pendiente |
+| Avance 1 — Problema, solución y plan | 24/04/2026 | ✅Listo |
+| Avance 2 — Núcleo técnico funcionando | 08/05/2026 | ✅Listo|
+| Avance 3 — Aplicación local funcionando | 29/05/2026 | 🚑 En curso |
 | Avance 4 — Evaluación completa | 12/06/2026 | ⏳ Pendiente |
 | Presentación final | 23-30/06/2026 | ⏳ Pendiente |
 
