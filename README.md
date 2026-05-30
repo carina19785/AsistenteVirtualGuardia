@@ -117,7 +117,9 @@ POSIBLE ARQUITECTURA
 ----
 FLUJO DEL SISTEMA
 <img width="596" height="275" alt="image" src="https://github.com/user-attachments/assets/64b3a315-7b22-42b3-adaf-de483002f382" />
-
+---
+<img width="682" height="232" alt="image" src="https://github.com/user-attachments/assets/0e80511f-656e-4ff4-bdb8-19b9cc273f62" />
+---
 
 ## Integrantes
 
