@@ -89,7 +89,6 @@ asis-triaje/
 
 ## Tablero de gestión
 
-> 📋 [Link al tablero Trello / Notion / GitHub Projects] — *completar por el grupo*
 
 ---
 
@@ -113,14 +112,15 @@ streamlit run app/main.py
 ```
 
 ---
+<img width="729" height="283" alt="image" src="https://github.com/user-attachments/assets/e513920c-d68e-46ee-ab55-b9755eb1d81a" />
 
 ## Integrantes
 
 | # | Nombre y apellido |
 |---|---|
-| 1 | [OVANDO ROBERTO] |
-| 2 | [QUISPE ALEJANDRA] |
-| 3 | [SAUCEDO NOELIA] |
+| 1 | QUISPE ALEJANDRA|
+| 2 |OVANDO ROBERTO |
+| 3 | SAUCEDO NOELIA |
 
 ---
 
