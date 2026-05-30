@@ -112,7 +112,12 @@ streamlit run app/main.py
 ```
 
 ---
+POSIBLE ARQUITECTURA
 <img width="729" height="283" alt="image" src="https://github.com/user-attachments/assets/e513920c-d68e-46ee-ab55-b9755eb1d81a" />
+----
+FLUJO DEL SISTEMA
+<img width="596" height="275" alt="image" src="https://github.com/user-attachments/assets/64b3a315-7b22-42b3-adaf-de483002f382" />
+
 
 ## Integrantes
 
