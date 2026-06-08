@@ -1,15 +1,13 @@
-# 🏥 AsisTriaje — Sistema Híbrido de Triage para Guardia de Emergencias
+# 🏥 Asistente Virtual — Sistema Híbrido de Triage para Guardia de Emergencias
 
-> Trabajo Integrador Final · Modelado de Sistemas de IA Aplicada · Código 2.1.4
-> Tecnicatura Universitaria en Ciencia de Datos e IA Aplicada · UPATecO · Salta · 2026
-> Formador: Lic. Walter Gabriel Ramírez
+> Trabajo Integrador Final · Modelado de Sistemas de IA Aplicada 
+> Profe: Lic. Walter Gabriel Ramírez
 
 ---
 
-## ¿Qué es AsisTriaje?
+## ¿Qué es un Asistente Virtual?
 
-**AsisTriaje** es un sistema **híbrido** de triage para la guardia de emergencias del Hospital San Bernardo de Salta. Combina tres enfoques de IA para asistir al personal de enfermería en la clasificación y derivación de pacientes.
-
+**Asistente Virtual** es un sistema **híbrido** de triage para la guardia de emergencias del Hospital San Bernardo de Salta. Que combina tres enfoques de IA para asistir al personal de enfermería en la clasificación y derivación de pacientes.
 ---
 
 ## 🤖 Arquitectura del sistema híbrido
@@ -66,7 +64,7 @@ asis-triaje/
 
 ### Requisitos previos
 - Python 3.9 o superior instalado
-- Una API Key gratuita de Gemini (ver más abajo)
+- Una API Key gratuita de Gemini 
 
 ### Paso 1 — Clonar el repositorio
 
@@ -137,12 +135,11 @@ La app se abre automáticamente en el navegador en `http://localhost:8501`
 
 | Avance | Fecha | Estado |
 |---|---|---|
-| Avance 1 — Problema, solución y plan | 24/04/2026 | ✅ Entregado |
-| Avance 2 — Núcleo técnico funcionando | 08/05/2026 | ✅ Completado |
-| Avance 3 — Aplicación local funcionando | 29/05/2026 | ✅ Completado |
+| Avance 1 — Problema, solución y plan  | ✅ Entregado |
+| Avance 2 — Núcleo técnico funcionando | | ✅ Completado |
+| Avance 3 — Aplicación local funcionando |  | ✅ Completado |
 | Avance 4 — Evaluación completa | 12/06/2026 | ⏳ Pendiente |
 | Presentación final | 23-30/06/2026 | ⏳ Pendiente |
-
 ---
 
 ## 👥 Integrantes
