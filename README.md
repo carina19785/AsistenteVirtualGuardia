@@ -153,7 +153,7 @@ La app se abre automáticamente en el navegador en `http://localhost:8501`
 
 ## ⚠️ Nota importante
 
-AsisTriaje es un **asistente de apoyo** al personal de salud. No reemplaza el criterio médico ni está certificado como dispositivo médico. Las sugerencias de derivación y estudios son orientativas y deben ser validadas por el profesional a cargo.
+Aistente Virtual es un **asistente de apoyo** al personal de salud. No reemplaza el criterio médico ni está certificado como dispositivo médico. Las sugerencias de derivación y estudios son orientativas y deben ser validadas por el profesional a cargo.
 
 
 
