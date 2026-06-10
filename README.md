@@ -69,8 +69,8 @@ asis-triaje/
 ### Paso 1 — Clonar el repositorio
 
 ```bash
-git clone https://github.com/[usuario]/asis-triaje.git
-cd asis-triaje
+git clone https://github.com/carina19785/AsistenteVirtualGuardia.git
+cd AsistenteVirtualGuardia
 ```
 
 ### Paso 2 — Instalar dependencias
