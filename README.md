@@ -40,7 +40,7 @@ APP LOCAL — Streamlit
 ## 📁 Estructura del repositorio
 
 ```
-asis-triaje/
+AsistenteVirtualGuardia/
 ├── data/
 │   ├── reglas/
 │   │   └── reglas.json                      ← Base de reglas de derivación (14 categorías)
