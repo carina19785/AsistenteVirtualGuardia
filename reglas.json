@@ -1,0 +1,271 @@
+{
+  "corte_herida_miembro": {
+    "palabras_clave": [
+      "corte",
+      "herida",
+      "cortadura",
+      "abrí",
+      "sangra",
+      "sangrado",
+      "brazo",
+      "pierna",
+      "mano",
+      "pie",
+      "dedo"
+    ],
+    "especialista": "Traumatología / Cirugía General",
+    "urgencia": 2,
+    "urgencia_label": "Urgente",
+    "estudios": [
+      "Radiografía de la zona afectada",
+      "Hemograma completo",
+      "Coagulograma si sangrado importante"
+    ],
+    "indicaciones": "Limpiar y cubrir la herida. Evaluar profundidad y necesidad de sutura."
+  },
+  "traumatismo_craneal": {
+    "palabras_clave": [
+      "cabeza",
+      "cráneo",
+      "golpe en la cabeza",
+      "caída",
+      "perdí el conocimiento",
+      "mareos tras golpe"
+    ],
+    "especialista": "Neurocirugía / Guardia Neurológica",
+    "urgencia": 1,
+    "urgencia_label": "Emergencia",
+    "estudios": [
+      "TAC de cráneo sin contraste",
+      "Evaluación neurológica inmediata",
+      "Hemograma",
+      "Glucemia"
+    ],
+    "indicaciones": "Inmovilizar. Monitoreo continuo de conciencia y pupilas."
+  },
+  "dolor_toracico": {
+    "palabras_clave": [
+      "pecho",
+      "dolor de pecho",
+      "opresión",
+      "infarto",
+      "brazo izquierdo",
+      "mandíbula",
+      "ahogo"
+    ],
+    "especialista": "Cardiología / Guardia de Emergencias",
+    "urgencia": 1,
+    "urgencia_label": "Emergencia",
+    "estudios": [
+      "ECG de 12 derivaciones INMEDIATO",
+      "Troponinas I y T",
+      "Rx de tórax",
+      "Saturación de O2"
+    ],
+    "indicaciones": "Acceso venoso inmediato. Reposo absoluto. Monitoreo cardíaco continuo."
+  },
+  "fiebre_sin_herida": {
+    "palabras_clave": [
+      "fiebre",
+      "temperatura alta",
+      "escalofríos",
+      "tiritando",
+      "febril"
+    ],
+    "especialista": "Clínica Médica",
+    "urgencia": 3,
+    "urgencia_label": "Urgencia menor",
+    "estudios": [
+      "Hemograma con recuento diferencial",
+      "PCR",
+      "Orina completa"
+    ],
+    "indicaciones": "Hidratación oral o IV. Antitérmico si T° > 38.5°C."
+  },
+  "dificultad_respiratoria": {
+    "palabras_clave": [
+      "no puedo respirar",
+      "me falta el aire",
+      "ahogando",
+      "asma",
+      "silbidos",
+      "saturación baja"
+    ],
+    "especialista": "Neumonología / Guardia de Emergencias",
+    "urgencia": 1,
+    "urgencia_label": "Emergencia",
+    "estudios": [
+      "Saturometría de pulso inmediata",
+      "Rx de tórax",
+      "Gasometría arterial"
+    ],
+    "indicaciones": "Administrar O2 si saturación < 94%. Posición semi-sentada."
+  },
+  "dolor_abdominal": {
+    "palabras_clave": [
+      "panza",
+      "abdomen",
+      "barriga",
+      "náuseas",
+      "vómitos",
+      "vesícula",
+      "cólico"
+    ],
+    "especialista": "Cirugía General / Guardia Quirúrgica",
+    "urgencia": 2,
+    "urgencia_label": "Urgente",
+    "estudios": [
+      "Ecografía abdominal",
+      "Hemograma",
+      "Amilasa y lipasa",
+      "Orina completa"
+    ],
+    "indicaciones": "No administrar analgésicos hasta evaluación médica. Hidratación IV."
+  },
+  "fractura_sospecha": {
+    "palabras_clave": [
+      "fractura",
+      "roto",
+      "no puedo mover",
+      "deformidad",
+      "hueso",
+      "torcido"
+    ],
+    "especialista": "Traumatología y Ortopedia",
+    "urgencia": 2,
+    "urgencia_label": "Urgente",
+    "estudios": [
+      "Radiografía de la zona afectada (2 proyecciones)"
+    ],
+    "indicaciones": "Inmovilizar la zona. No intentar reducción sin evaluación del especialista."
+  },
+  "perdida_consciencia": {
+    "palabras_clave": [
+      "desmayó",
+      "inconsciente",
+      "no responde",
+      "convulsión",
+      "temblores",
+      "epilepsia"
+    ],
+    "especialista": "Neurología / Guardia de Emergencias",
+    "urgencia": 1,
+    "urgencia_label": "Emergencia",
+    "estudios": [
+      "Glucemia capilar INMEDIATA",
+      "ECG",
+      "TAC de cráneo",
+      "Hemograma",
+      "Ionograma"
+    ],
+    "indicaciones": "Posición lateral de seguridad. Vía aérea permeable. Acceso venoso inmediato."
+  },
+  "problema_ocular": {
+    "palabras_clave": [
+      "ojo",
+      "no veo",
+      "visión borrosa",
+      "ardor en el ojo",
+      "químico en el ojo"
+    ],
+    "especialista": "Oftalmología",
+    "urgencia": 2,
+    "urgencia_label": "Urgente",
+    "estudios": [
+      "Agudeza visual",
+      "Lavado ocular si exposición química"
+    ],
+    "indicaciones": "No frotar el ojo. Lavado con suero fisiológico si hay cuerpo extraño."
+  },
+  "problema_psiquiatrico": {
+    "palabras_clave": [
+      "agitado",
+      "violento",
+      "no se calma",
+      "alucina",
+      "ataque de pánico",
+      "suicidio"
+    ],
+    "especialista": "Psiquiatría / Guardia de Salud Mental",
+    "urgencia": 2,
+    "urgencia_label": "Urgente",
+    "estudios": [
+      "Evaluación psiquiátrica",
+      "Glucemia",
+      "Toxicológico en orina"
+    ],
+    "indicaciones": "Ambiente tranquilo. No dejar solo al paciente."
+  },
+  "dolor_cabeza": {
+    "palabras_clave": [
+      "dolor de cabeza",
+      "me duele la cabeza",
+      "cefalea",
+      "jaqueca",
+      "migraña"
+    ],
+    "especialista": "Neurología",
+    "urgencia": 3,
+    "urgencia_label": "Urgencia menor",
+    "estudios": [
+      "Evaluación neurológica",
+      "Tensión arterial",
+      "TAC si cefalea súbita"
+    ],
+    "indicaciones": "Reposo en ambiente tranquilo. Escalar a urgencia 1 si cefalea súbita intensa."
+  },
+  "resfrio_gripal": {
+    "palabras_clave": [
+      "resfrío",
+      "resfriado",
+      "gripe",
+      "mocos",
+      "tos",
+      "dolor de garganta",
+      "anginas"
+    ],
+    "especialista": "Clínica Médica",
+    "urgencia": 4,
+    "urgencia_label": "Poco urgente",
+    "estudios": [
+      "Evaluación clínica general",
+      "Hisopado si sospecha influenza"
+    ],
+    "indicaciones": "Hidratación oral. Reposo. Antitérmico si fiebre."
+  },
+  "sincope": {
+    "palabras_clave": [
+      "síncope",
+      "se desvaneció",
+      "se mareó y cayó",
+      "pérdida de conocimiento breve"
+    ],
+    "especialista": "Neurología",
+    "urgencia": 2,
+    "urgencia_label": "Urgente",
+    "estudios": [
+      "Glucemia capilar inmediata",
+      "ECG",
+      "Tensión arterial en ambos brazos"
+    ],
+    "indicaciones": "Acostar al paciente. Elevar miembros inferiores. Descartar causa cardíaca."
+  },
+  "corte_tronco_cara": {
+    "palabras_clave": [
+      "me corté la cara",
+      "corte en el cuello",
+      "herida en la espalda",
+      "corte en la panza",
+      "me abrí la frente"
+    ],
+    "especialista": "Cirugía General",
+    "urgencia": 2,
+    "urgencia_label": "Urgente",
+    "estudios": [
+      "Hemograma completo",
+      "Coagulograma si sangrado importante",
+      "Rx o TAC según localización"
+    ],
+    "indicaciones": "Compresión directa sobre la herida. No retirar objetos incrustados."
+  }
+}
