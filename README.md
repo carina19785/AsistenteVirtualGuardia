@@ -136,9 +136,8 @@ La app se abre automáticamente en el navegador en `http://localhost:8501`
 | Avance | Fecha | Estado |
 |---|---|---|
 | Avance 1 — Problema, solución y plan  | ✅ Entregado |
-| Avance 2 — Núcleo técnico funcionando | | ✅ Completado |
-| Avance 3 — Aplicación local funcionando |  | ✅ Completado |
-| Avance 4 — Evaluación completa | 12/06/2026 | ⏳ Pendiente |
+| Avance 2 — Núcleo técnico funcionando | ✅ Entregado | 
+| Avance 3 — Aplicación local funcionando | ✅ Entregado|
 | Presentación final | 23-30/06/2026 | ⏳ Pendiente |
 ---
 
